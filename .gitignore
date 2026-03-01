@@ -1,0 +1,48 @@
+# -------------------------
+# Python cache files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Virtual environment
+# -------------------------
+venv/
+env/
+.venv/
+
+# -------------------------
+# Vector databases / embeddings
+# -------------------------
+chroma_langchain_db/
+faiss_index/
+*.db
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+
+# -------------------------
+# Jupyter Notebook checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# VS Code / IDE settings
+# -------------------------
+.vscode/
+.idea/
