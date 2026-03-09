@@ -57,7 +57,9 @@ pip install -r requirements.txt
 ---
 
 ## ▶️ How to Run
-python main.py
+Add you manual/document to the WD.
+Change The directory in the vector.py to your document.
+Run python main.py in terminal.
 
 ---
 
